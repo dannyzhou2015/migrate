@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	st "github.com/golang-migrate/migrate/v4/source/testing"
+	st "github.com/dannyzhou2015/migrate/v4/source/testing"
 )
 
 var BitbucketTestSecret = "" // username:password

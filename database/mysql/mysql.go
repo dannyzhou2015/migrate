@@ -18,8 +18,8 @@ import (
 
 	"go.uber.org/atomic"
 
+	"github.com/dannyzhou2015/migrate/v4/database"
 	"github.com/go-sql-driver/mysql"
-	"github.com/golang-migrate/migrate/v4/database"
 	"github.com/hashicorp/go-multierror"
 )
 
